@@ -1,0 +1,17 @@
+[
+    {
+       "id": 1,
+      "mes" :"octubre",
+      "precio" : 100,
+      "img" :"img/WhatsApp Image 2022-09-17 at 22.02.14.jpeg",
+      "cantidad" : 1
+    }
+    ,
+    {
+        "id": 2,
+        "mes" :"novimebre",
+        "precio" : 50,
+        "img" :"img/WhatsApp Image 2022-09-17 at 22.01.58.jpeg",
+        "cantidad" : 1  
+    }
+]
